@@ -1,0 +1,12 @@
+# Custom
+zenv/
+*/staticfiles/
+media/
+*/migrations/
+db_backup/
+.vscode/
+logs/
+__pycache__/
+.env
+.vscode
+db.sqlite3
